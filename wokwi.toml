@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/SONDA_MOTOR.uf2'
+elf = 'build/SONDA_MOTOR.elf'
