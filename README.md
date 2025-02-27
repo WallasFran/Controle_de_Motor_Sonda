@@ -69,7 +69,7 @@ Além disso, o sistema fornece feedback visual e sonoro:
 
 Confira o vídeo demonstrativo do projeto para entender melhor o funcionamento do sistema:
 
-[![Assista ao vídeo](https://drive.google.com/file/d/1xQSruLmB8KA3azRRzZTCIbTQx18PtYUU/view?usp=sharing)]
+https://drive.google.com/file/d/1xQSruLmB8KA3azRRzZTCIbTQx18PtYUU/view?usp=sharing
 
 
 ## Conclusão
